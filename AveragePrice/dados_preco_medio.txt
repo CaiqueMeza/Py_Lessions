@@ -1,15 +1,17 @@
 Este arquivo está salvo em C:\Users\caiqu\OneDrive\Área de Trabalho\app\Py_Lessions\AveragePrice\dados_preco_medio.txt
-Data e hora de criação:27/05/2024, 01h23m25s
- -------------------------
+Data e hora de criação: 27/05/2024, 02h08m19s
+-------------------------
 
-
-Preço médio: R$ 10.391666666666667
-Quantidade: 1800
+Preço médio: R$ 11.15
+Quantidade: 2600
 
 Memória de Cálculo:
-Repetição: 5
-Lista de Preços: [10.54, 12.43, 10.13, 9.76, 10.45]
-Lista de Quantidades: [100, 200, 300, 600, 600]
-Matriz de Preços: [1054.0, 2486.0, 3039.0000000000005, 5856.0, 6270.0]
+Repetição: 10
+Lista de Preços: [9.87, 9.65, 9.45, 9.78, 9.99, 10.05, 11.0, 15.0, 16.0, 13.0]
+Lista de Quantidades: [100, 300, 500, 600, 100, 100, 100, 200, 200, 400]
+Matriz de Preços: [986.9999999999999, 2895.0, 4725.0, 5868.0, 999.0, 1005.0000000000001, 1100.0, 3000.0, 3200.0, 5200.0]
+Quantidade Iterada: [100, 400, 900, 1500, 1600, 1700, 1800, 2000, 2200, 2600]
+PM Iterado: [9.87, 9.705, 9.563333333333333, 9.65, 9.67125, 9.693529411764706, 9.766111111111112, 10.2895, 10.808636363636364, 11.14576923076923]
+
 Obrigado por usar, desenvolvido por Caique.
 -------------------------
