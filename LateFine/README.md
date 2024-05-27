@@ -1,9 +1,9 @@
 # Late Fine
 Desenvolvi esta calculadora para uma simulação de atraso na data de devolução de um livro.
 
-O usuário insere a data de retirada e data de devolução, em seguida o console retonar se o usuário teve morosidade na devolução, aplicando multas caso teve demora.
+O usuário insere a data de retirada e data de devolução, em seguida o console retona se o usuário teve morosidade na devolução, aplicando multas caso teve demora.
 
-### As multas se comportam na seguinte forma:
+### As multas se comportam da seguinte forma:
 
 1. A data para devolução sempre será de até 5 dias após a retirada;
 2. Caso passe 5 dias:
@@ -13,10 +13,13 @@ O usuário insere a data de retirada e data de devolução, em seguida o console
 
 ### Conceitos abordados:
 
-+ Usei pela primeira vez a biblioteca __datetime__ para manipulação de datas;
-+ uso de loopings __(while)__;
-+ uso de condições __(if, elif e else)__;
-+ formatação de strings __(fstring)__.
++ Usei pela primeira vez a biblioteca **__datetime__** para manipulação de datas;
++ uso de loopings **__(while)__**;
++ uso de condições **__(if, elif e else)__**;
++ formatação de strings **__(fstring)__**.
+
+
+
 
 # English version
 I delevoped this calculator for a book late fine simulation.
@@ -33,7 +36,7 @@ The user input the checkin and checkout date time, after that the terminal retur
 
 ### Concepts covered:
 
-+ I used for first time __datetime__ library for date manipulation;
-+ use of loopings __(while)__;
-+ use of conditions __(if, elif, else)__;
-+ string formatting __(fstring)__.
++ I used for first time **__datetime__** library for date manipulation;
++ use of loopings **__(while)__**;
++ use of conditions **__(if, elif, else)__**;
++ string formatting **__(fstring)__**.
