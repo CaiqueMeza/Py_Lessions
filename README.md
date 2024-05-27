@@ -9,7 +9,8 @@ Todas as linhas de códigos foram feitas e pensadas por mim, não tendo utilizad
 
 ## Aplicações:
 
-+ [Late Fine](https://github.com/CaiqueMeza/Py_Lessions/tree/main/LateFine).
++ [Late Fine;](https://github.com/CaiqueMeza/Py_Lessions/tree/main/LateFine)
++ [Average Price.](https://github.com/CaiqueMeza/Py_Lessions/tree/main/AveragePrice)
 
 <br><br>
 
@@ -25,4 +26,5 @@ All code line are made and thought by myself, not having used any code generatio
 
 ## Applications:
 
-+ [Late Fine](https://github.com/CaiqueMeza/Py_Lessions/tree/main/LateFine).
++ [Late Fine;](https://github.com/CaiqueMeza/Py_Lessions/tree/main/LateFine)
++ [Average Price.](https://github.com/CaiqueMeza/Py_Lessions/tree/main/AveragePrice)
