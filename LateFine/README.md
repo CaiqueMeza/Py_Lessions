@@ -18,8 +18,7 @@ O usuário insere a data de retirada e data de devolução, em seguida o console
 + uso de condições **__(if, elif e else)__**;
 + formatação de strings **__(fstring)__**.
 
-
-
+<br><br>
 
 # English version
 I delevoped this calculator for a book late fine simulation.

@@ -8,8 +8,7 @@ Ele sempre estará dividido em pastas, onde cada pasta terá uma aplicação. O 
 
 + [Late Fine](https://github.com/CaiqueMeza/Py_Lessions/tree/main/LateFine).
 
-
-
+<br><br>
 
 # English version:
 
